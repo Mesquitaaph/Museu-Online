@@ -1,0 +1,25 @@
+[
+  {
+    "paint": "Janelinhas",
+    "src": "public/images/paints/janelinhas/",
+    "imgs": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"]
+  },
+
+  {
+    "paint": "A Namoradeira",
+    "src": "public/images/paints/namoradeira/",
+    "imgs": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"]
+  },
+
+  {
+    "paint": "O que é Desenho?",
+    "src": "public/images/paints/oqEhDesenho/",
+    "imgs": ["1.jpg"]
+  },
+
+  {
+    "paint": "Sem Saco",
+    "src": "public/images/paints/semSaco/",
+    "imgs": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"]
+  }
+]
