@@ -210,6 +210,9 @@
   text-align: center;
 
   margin: 48px 32px 0;
+
+  color: var(--color0);
+
 }
 
 #modal {
